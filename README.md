@@ -33,6 +33,9 @@ It currently has email, document, youtube and gaia modules.
 ### [socid_extractor](https://github.com/soxoj/socid-extractor)
 Extract information about a user from profile webpages / API responses and save it in machine-readable format.
 
+### [WebMii](https://webmii.com/)
+Extract information about a user from name, mainly uses web engine results.
+
 ## Images
 ### [Imgops](https://imgops.com/)
 Blessed tool for images.
