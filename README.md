@@ -44,3 +44,7 @@ Blessed tool for images.
 Depix is a tool for recovering passwords from pixelized screenshots.
 This implementation works on pixelized images that were created with a linear box filter.
 
+## Domains
+
+### [Builtwith](https://builtwith.com/)
+Builtwith reports the technology about a website but most importantly maintains a list of all ip addresses associated with the domain 
