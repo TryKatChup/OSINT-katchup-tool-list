@@ -51,3 +51,6 @@ This implementation works on pixelized images that were created with a linear bo
 
 ### [Builtwith](https://builtwith.com/)
 Builtwith reports the technology about a website but most importantly maintains a list of all ip addresses associated with the domain 
+
+### [Pagodo](https://github.com/opsdisk/pagodo)
+Pagodo automates Google searching for potentially vulnerable web pages and applications on the Internet. It replaces manually performing Google dork searches with a web GUI browser.
