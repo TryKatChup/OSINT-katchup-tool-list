@@ -54,8 +54,3 @@ Builtwith reports the technology about a website but most importantly maintains 
 
 ### [Pagodo](https://github.com/opsdisk/pagodo)
 Pagodo automates Google searching for potentially vulnerable web pages and applications on the Internet. It replaces manually performing Google dork searches with a web GUI browser.
-
-## Data
-
-### [Apk Downloader](https://apkcombo.com/)
-My favourite and always working apk downloader
