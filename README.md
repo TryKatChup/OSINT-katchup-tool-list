@@ -3,7 +3,6 @@ My OSINT tool list 🥵 🕵️
 
 ## Mail address
 ### [Holehe](https://github.com/megadose/holehe)
-
 Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
 
 - Retrieves information using the forgotten password function.
@@ -11,11 +10,12 @@ Holehe checks if an email is attached to an account on sites like twitter, insta
 - Runs on Python 3.
 
 ### [GitHub Email Scaper](https://github.com/andyjsmith/GitHub-Email-Scraper)
+### [Mosint](https://github.com/alpkeskin/mosint)
 
 ## Username
 ### [Sherlock](https://github.com/sherlock-project/sherlock)
 Search people by username across a huge list of websites.
-
+### [Nexfil](https://github.com/thewhiteh4t/nexfil)
 ## GitHub
 ### [Shhgit](https://github.com/eth0izzle/shhgit)
 Shhgit helps secure forward-thinking development, operations, and security teams by finding secrets across their code before it leads to a security breach.
